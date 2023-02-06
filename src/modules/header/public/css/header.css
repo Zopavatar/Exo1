@@ -1,0 +1,20 @@
+#image{
+    height: 40vh;
+    width: 40vh;
+    background-image: url(../img/image-equilibrium.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#icone {
+    background-image: url(../img/icon-view.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 8vh;
+    width: 8vh;
+}
