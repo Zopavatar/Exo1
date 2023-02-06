@@ -4,7 +4,7 @@ import "./public/css/section.css";
 const Section = () => {
   return (
     <section>
-        <h1>Equilibrium #3429</h1>
+        <h1>Equilibrium <a href="">#3429</a></h1>
         <p>Lorem ipsum dolor sit amet consectetur. Lorem, ipsum dolor.</p>
         <div>
             <div>

@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer>
         <div id="profil"></div>
-        <p>Creation of <span>Jules Wyvern</span></p>
+        <p>Creation of </p><a href="">Jules Wyvern</a>
     </footer>
   )
 }

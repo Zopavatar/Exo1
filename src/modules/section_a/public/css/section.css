@@ -6,6 +6,11 @@ p{
     color: hsl(215, 51%, 70%);
 }
 
+a{
+    text-decoration: none;
+    color: hsl(178, 100%, 50%)
+}
+
 section{
     width: 40vh;
     border-bottom: solid 0.5px;

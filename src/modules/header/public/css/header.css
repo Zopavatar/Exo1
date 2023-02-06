@@ -8,13 +8,26 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
+
 #icone {
+    background: none;
+    height: 100%;
+    width: 100%;
+    border: none
+}
+
+#icone:hover{
+    cursor:pointer
+}
+
+#el_icone {
     background-image: url(../img/icon-view.svg);
     background-repeat: no-repeat;
-    background-size: cover;
     background-position: center;
-    height: 8vh;
-    width: 8vh;
+    background-size: 20%; 
+    height: 100%;
+    width: 100%;
 }
