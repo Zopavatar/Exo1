@@ -5,7 +5,7 @@ const Section = () => {
   return (
     <section>
         <h1>Equilibrium #3429</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, fugit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur.</p>
         <div>
             <div>
                 <div id="icone_a"></div>
